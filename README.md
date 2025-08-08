@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/mrsMatheusRocha/ByteBank/blob/61dada10357dac0d1d6eac0a46eae88f3946b9ad/imagens/logo.png" alt="ByteBank Footer Logo" width="120"/>
+</p>
+
 <h1 align="center">ByteBank</h1>
 <p align="center"><b>O seu banco digital!</b></p>
 
@@ -46,7 +50,3 @@ O ByteBank é uma aplicação web que simula um banco digital, permitindo explor
 Este projeto foi criado para fins educacionais, visando facilitar o estudo dos principais recursos de concorrência e paralelismo em aplicações web.
 
 ---
-
-<p align="center">
-  <img src="https://imgur.com/1mc1qX7.png" alt="ByteBank Footer Logo" width="120"/>
-</p>
