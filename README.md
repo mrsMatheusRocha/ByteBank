@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://imgur.com/1mc1qX7.png" alt="ByteBank Logo" width="300"/>
-</p>
-
 <h1 align="center">ByteBank</h1>
 <p align="center"><b>O seu banco digital!</b></p>
 
