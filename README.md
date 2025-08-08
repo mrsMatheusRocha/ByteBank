@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/mrsMatheusRocha/ByteBank/blob/61dada10357dac0d1d6eac0a46eae88f3946b9ad/imagens/logo.png" alt="ByteBank Footer Logo" width="120"/>
 </p>
-
-<h1 align="center">ByteBank</h1>
 <p align="center"><b>O seu banco digital!</b></p>
 
 <hr>
